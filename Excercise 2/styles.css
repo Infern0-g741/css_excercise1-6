@@ -1,0 +1,20 @@
+.class{
+  font-size: 12px;
+  color: #000000;
+  background-color: rgb(128,0,0);
+}
+.class.cooler{
+  font-size: 24px;
+}
+
+#Number2{
+  color: #0000FF;
+  font-size: 36px;
+}
+
+#Number4{
+  color: #000000;
+  background-color: rgb(0,128,0);
+  font-weight: 700;
+  font-size: 24px;
+}
