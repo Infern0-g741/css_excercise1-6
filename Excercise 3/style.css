@@ -1,0 +1,12 @@
+.white_button{
+background-color: black;
+color: #FFFFFF;
+}
+.black_button{
+background-color: hsl(45, 70%, 75%);
+}
+.black_button,
+.white_button{
+font-size: 28px;
+font-family: "Helvetica" , "Times new Roman", "sans-serif";
+}
